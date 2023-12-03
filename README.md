@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binael&label=Profile%20views&color=0e75b6&style=flat" alt="binael" /> </p>
 
-(img align="right" alt="Coding" width="400" src="https://github.com/binael/binael/blob/main/IMG-20231202-WA0027.jpg")
+<img align="right" alt="Coding" width="400" src="https://github.com/binael/binael/blob/main/IMG-20231202-WA0027.jpg">
 
 - 🔭 I’m currently working on [O-Store](https://o-store.onrender.com/o-seller)
 
