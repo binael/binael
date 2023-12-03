@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/binael/binael/blob/main/IMG-20231202-WA0027.jpg)](github.com/binael)
+[![MasterHead](https://github.com/binael/binael/blob/main/WhatsApp%20Image%202023-12-02%20at%2010.39.20%20PM.jpeg)](github.com/binael)
 <h1 align="center">Hi 👋, I'm Binael Nchekwube</h1>
 <h3 align="center">A passionate python developer from Nigeria</h3>
 
