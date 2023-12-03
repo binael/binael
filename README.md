@@ -1,8 +1,9 @@
 [![MasterHead](https://github.com/binael/binael/blob/main/WhatsApp%20Image%202023-12-02%20at%2010.39.20%20PM.jpeg)](github.com/binael)
 <h1 align="center">Hi 👋, I'm Binael Nchekwube</h1>
-<h3 align="center">A passionate python developer from Nigeria</h3>
+<h3 align="center">A passionate 🐍 Python Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binael&label=Profile%20views&color=0e75b6&style=flat" alt="binael" /> </p>
+Passionate about leveraging Python to build robust and scalable solutions, I am a dedicated developer with a keen interest in web development, machine learning.
 
 <img align="right" alt="Coding" width="400" src="https://github.com/binael/binael/blob/main/IMG-20231202-WA0027.jpg">
 
