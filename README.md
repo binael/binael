@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Binael Nchekwube</h1>
 <h3 align="center">A passionate 🐍 Python Developer from Nigeria</h3>
 Passionate about leveraging Python to build robust and scalable solutions, I am a dedicated developer with a keen interest in web development, machine learning.
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binael&label=Profile%20views&color=0e75b6&style=flat" alt="binael" /> </p>
 
 
