@@ -3,10 +3,11 @@
 <h3 align="center">A passionate 🐍 Python Developer from Nigeria</h3>
 Passionate about leveraging Python to build robust and scalable solutions, I am a dedicated developer with a keen interest in web development, machine learning.
 <p></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binael&label=Profile%20views&color=0e75b6&style=flat" alt="binael" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=binael&label=Profile%20views&color=0e75b6&style=flat" alt="binael" /></p>
+<p align="left"> <a href="https://twitter.com/binaelnchekwube" target="blank"><img src="https://img.shields.io/twitter/follow/binaelnchekwube?logo=twitter&style=for-the-badge" alt="binaelnchekwube" /></a></p>
 
 
-<img align="right" alt="Coding" width="400" height="180" src="https://github.com/binael/binael/blob/main/IMG-20231202-WA0027.jpg">
+<img align="right" alt="Coding" width="350" height="150" src="https://github.com/binael/binael/blob/main/IMG-20231202-WA0027.jpg">
 
 - 🔭 I’m currently working on [O-Store](https://o-store.onrender.com/o-seller)
 
@@ -14,7 +15,7 @@ Passionate about leveraging Python to build robust and scalable solutions, I am 
 
 - 👯 I’m Collaborating on [Ivy](https://github.com/unifyai/ivy)
 
-- 💬 Ask me about **python, flask, sql**
+- 💬 Ask me about **Python, Flask, MySql**
 
 - 📫 How to reach me **nbinael@yahoo.com**
 
